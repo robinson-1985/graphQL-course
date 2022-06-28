@@ -1,0 +1,24 @@
+{
+  "name": "graphql-course",
+  "version": "1.0.0",
+  "description": "GraphQL e Apollo Server + Client - Criando aplicações e juntando tudo em um grafo com end-point usando dados de APIs e BDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinson-1985/graphQL-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinson-1985/graphQL-course/issues"
+  },
+  "homepage": "https://github.com/robinson-1985/graphQL-course#readme",
+  "keywords": [],
+  "dependencies": {
+    "apollo-server": "^3.9.0",
+    "graphql": "^16.5.0"
+  }
+}
